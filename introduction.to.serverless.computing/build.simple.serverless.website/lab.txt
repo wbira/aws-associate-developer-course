@@ -1,4 +1,9 @@
 1. Create S3 bucket and setup static website hosting (index.html, error.html)
 2* Register domain in Route 53 (it's not free, S3 address can be used)
-3. Create lambda function.
+3. Create lambda function (Python 3.6, Setup role based on microservice policies )
+4. Add API Gateway trigger
+5. Go to API Gateway delete any, and Create GET method
+6. Deploy API
+7. Go to S3, make bucket public and then upload files and make them public
+
 

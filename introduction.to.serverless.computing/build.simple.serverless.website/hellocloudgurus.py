@@ -6,7 +6,7 @@ def lambda_handler(event, context):
         "headers": {
             "Access-Control-Allow-Origin": "*",
         },
-        "body": "Ryan Kroonenburg"
+        "body": "Waldek Bira"
     }
     
     return resp
