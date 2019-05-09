@@ -1,0 +1,4 @@
+1. Create S3 bucket and setup static website hosting (index.html, error.html)
+2* Register domain in Route 53 (it's not free, S3 address can be used)
+3. Create lambda function.
+
