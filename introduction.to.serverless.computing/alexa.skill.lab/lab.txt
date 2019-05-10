@@ -2,3 +2,6 @@
 2. Prepare some mp3 using Amazon Polly, and sythesize this to S3
 3. Create lambda from serverless repo: alexa-skil-alexaskillskitnodejsfact (needs to be in region that supports alexa trigger)
 4. Add to data '<audio src="link to s3 mp3"/>'
+5. Go to developer.amazon.com and create skill
+6. Setup endpoint and invocation
+7. Build model and test
