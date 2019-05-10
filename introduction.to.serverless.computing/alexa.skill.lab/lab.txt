@@ -4,4 +4,4 @@
 4. Add to data '<audio src="link to s3 mp3"/>'
 5. Go to developer.amazon.com and create skill
 6. Setup endpoint and invocation
-7. Build model and test
+7. Build model and test if its working
